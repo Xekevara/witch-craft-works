@@ -225,7 +225,7 @@ Dialogue: 10,0:06:51.72,0:06:52.60,Takamiya,,0,0,0,,{\be2}¿Uh?
 Dialogue: 10,0:06:58.10,0:06:59.89,Takamiya,,0,0,0,,{\be2}¡El patio está hecho un desastre!
 Dialogue: 10,0:06:59.89,0:07:01.10,Takamiya,,0,0,0,,{\be2}¡Y qué demonios hacemos flotando!
 Dialogue: 10,0:07:01.85,0:07:02.90,Takamiya,,0,0,0,,{\be2}Oh, lo siento.
-Dialogue: 10,0:07:03.61,0:07:05.44,Tanpopo,,0,0,0,,{\be2}Una bruja Obradora, ¿um?
+Dialogue: 10,0:07:03.61,0:07:05.44,Tanpopo,,0,0,0,,{\be2}Una bruja Obradora, ¿hum?
 Dialogue: 10,0:07:05.44,0:07:08.28,Tanpopo,,0,0,0,,{\be2}Vamos a ver qué haces ahora.
 Dialogue: 10,0:07:09.07,0:07:09.86,Kagari,,0,0,0,,{\be2}Aquí vienen.
 Dialogue: 10,0:07:09.86,0:07:10.36,Takamiya,,0,0,0,,{\be2}¿Quiénes?
@@ -303,7 +303,7 @@ Dialogue: 10,0:11:40.80,0:11:42.01,Kagari,,0,0,0,,{\be2}No fue un sueño.
 Dialogue: 10,0:11:42.64,0:11:44.51,Kagari,,0,0,0,,{\be2}A su debido tiempo te lo explicaré todo.
 Dialogue: 10,0:11:44.97,0:11:46.97,Kagari,,0,0,0,,{\be2}Pero ahora, volvamos a casa.
 Dialogue: 10,0:11:46.97,0:11:49.68,Kagari,,0,0,0,,{\be2}Tu mochila está por ahí.
-Dialogue: 10,0:11:49.68,0:11:51.35,Takamiya,,0,0,0,,{\be2}¡Espera, Kagari! Um—
+Dialogue: 10,0:11:49.68,0:11:51.35,Takamiya,,0,0,0,,{\be2}¡Espera, Kagari! Hum—
 Dialogue: 10,0:11:52.31,0:11:55.94,Kagari,,0,0,0,,{\be2}Ya no hace falta que te proteja en secreto.
 Dialogue: 10,0:11:55.94,0:11:57.15,Kagari,,0,0,0,,{\be2}Volvamos a casa juntos.
 Dialogue: 10,0:11:57.15,0:11:59.49,Takamiya,Pensamiento,0,0,0,,{\be2\1a&H48&}¿Protegerme... en secreto?
@@ -457,7 +457,7 @@ Dialogue: 10,0:20:25.28,0:20:26.37,Tanpopo,,0,0,0,,{\be2}¡Joder! Plan B—
 Dialogue: 10,0:20:32.25,0:20:34.17,Tanpopo,,0,0,0,,{\an8\be2}¡Me las pagarás!
 Dialogue: 0,0:20:32.25,0:20:36.21,Título,,0,0,0,,{\pos(643,545)\b1\fs80\bord3.5\c&H171715&\3c&HEFF5FA&\be1}[ Plan B = Huida estratégica ]
 Dialogue: 10,0:20:36.67,0:20:39.30,Kagari,,0,0,0,,{\be2}Ya puedes abrir los ojos.
-Dialogue: 10,0:20:41.01,0:20:41.72,Takamiya,,0,0,0,,{\be2}¿Um?
+Dialogue: 10,0:20:41.01,0:20:41.72,Takamiya,,0,0,0,,{\be2}¿Hum?
 Dialogue: 10,0:20:42.80,0:20:44.55,Takamiya,,0,0,0,,{\be2}Has vuelto a la normalidad.
 Dialogue: 10,0:20:47.89,0:20:50.56,Takamiya,,0,0,0,,{\be2}Las mujeres sois un misterio.
 Dialogue: 10,0:21:00.36,0:21:02.53,Takamiya,,0,0,0,,{\be2}Perdona por lo del almuerzo.
