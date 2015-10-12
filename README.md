@@ -1,4 +1,3 @@
-# witch-craft-works
-Witch Craft Works
+# Witch Craft Works
 
 Anime Ωmega
